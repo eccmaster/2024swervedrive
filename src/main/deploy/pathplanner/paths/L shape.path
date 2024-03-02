@@ -1,0 +1,97 @@
+{
+  "version": 1.0,
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 0.0,
+        "y": 2.0
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 1.8944530196752707,
+        "y": 1.9532233822302396
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 6.0,
+        "y": 1.9953899993270077
+      },
+      "prevControl": {
+        "x": 6.001590578679733,
+        "y": 1.7073465485962325
+      },
+      "nextControl": {
+        "x": 5.9967710301831065,
+        "y": 2.5801354257649862
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 6.0,
+        "y": 0.0
+      },
+      "prevControl": {
+        "x": 5.989896424237293,
+        "y": -1.2284853971417338
+      },
+      "nextControl": {
+        "x": 6.000941760509605,
+        "y": 0.11450787927221828
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 6.0,
+        "y": 2.0
+      },
+      "prevControl": {
+        "x": 5.989896424237293,
+        "y": 3.730435267138341
+      },
+      "nextControl": {
+        "x": 6.0012331960012375,
+        "y": 1.7887910278545354
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 0.0,
+        "y": 2.0
+      },
+      "prevControl": {
+        "x": 1.5344235816666818,
+        "y": 1.9458396381129246
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": null
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 3.0,
+    "maxAcceleration": 3.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": -1.2444570051817059,
+    "rotateFast": false
+  },
+  "reversed": false,
+  "folder": null,
+  "previewStartingState": null,
+  "useDefaultConstraints": false
+}
